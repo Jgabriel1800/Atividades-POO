@@ -1,0 +1,1 @@
+Resposta questão 4:Ela não registra a posição exata, apenas conta a quantidade de acertos. Por isso, é possível jogar o mesmo número mais de uma vez.
