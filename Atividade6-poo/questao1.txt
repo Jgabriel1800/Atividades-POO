@@ -1,0 +1,21 @@
+Questão 1 
+1- How many instance variables does Surgeon have?
+    - 1 variables, workAtHospital
+
+2 -  How many instance variables does FamilyDoctor have?
+    - 2 variables, workAtHospital and makeHouseCalls
+
+3 - How many methods does Doctor have?
+    - 1 methods, treatPatient()
+
+4 - How many methods does Surgeon have?
+    - 2 methods, treatPatient() and makeIncision()
+
+5 - How many methods does FamilyDoctor have?
+    - 2 methods, treatPatient() and giveAdvice()
+
+6 - Can a FamilyDoctor do treatPatient()?
+    - Yes, because it inherits this method from Doctor
+
+7 - Can a FamilyDoctor do makeIncision()?
+    - No, because that method belongs only to the Surgeon subclass
